@@ -1,1 +1,1 @@
-# HospitleManagementSystem
+# HospitalManagementSystem
